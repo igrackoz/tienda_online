@@ -30,11 +30,6 @@ export class RegistroComponent implements OnInit {
 
         this.router.navigate(['/inicio']);
       }
-  
-      else{
-        
-        this.router.navigate(['/login']);
-      }
   }
 
   onSubmit( form : NgForm ){
