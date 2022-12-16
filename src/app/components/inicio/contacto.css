@@ -1,0 +1,27 @@
+.btn-contacto{
+    
+    background-color: rgb(0,230,118);
+    border-radius: 7mm 7mm 7mm 7mm;
+    position: absolute;
+    height: 14mm;
+    width: 14mm;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin-top: auto;
+    margin-left: 20px;
+    margin-right: auto;
+    margin-bottom: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 6;
+}
+
+.logo-contacto{
+
+    height: 14mm;
+    width: 14mm;
+    
+}
