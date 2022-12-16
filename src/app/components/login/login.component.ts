@@ -29,11 +29,6 @@ export class LoginComponent implements OnInit {
 
         this.router.navigate(['/inicio']);
       }
-  
-      else{
-        
-        this.router.navigate(['/login']);
-      }
     }
   
     login(form: NgForm){
